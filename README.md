@@ -1,7 +1,7 @@
-### GitHub Profiles - HTML, CSS, and JavaScript Project
+# GitHub Profiles - HTML, CSS, and JavaScript Project
 Welcome to the GitHub Profiles project! This web application allows users to search for and view detailed information about GitHub profiles.
 
-### Features
+## Features
 Profile Search: Search for GitHub profiles by username.
 
 User Information: Display user details including avatar, bio, location, follower count, and following count.
@@ -12,7 +12,7 @@ Responsive Design: Ensure the app works well on various devices, including deskt
 
 Pagination: Handle large sets of repositories with pagination for easy navigation.
 
-### Technologies Used
+## Technologies Used
 HTML: Structure the content of the web page.
 
 CSS: Style the layout and appearance of the application.
