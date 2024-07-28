@@ -22,7 +22,7 @@ JavaScript: Fetch user data from the GitHub API and dynamically update the UI.
 
 ### Usage
 1. Generate a GitHub Personal Access Token: Obtain a personal access token from your GitHub account settings with the necessary permissions to access user and repository data.
-2. 
-3. Configure the Token: Replace the placeholder token in the JavaScript file (script.js) with your personal access token.
-4. 
-5. Search for Profiles: Enter a GitHub username in the search bar and press Enter to fetch and display the user’s profile and repositories.
+  
+2. Configure the Token: Replace the placeholder token in the JavaScript file (script.js) with your personal access token.
+  
+3. Search for Profiles: Enter a GitHub username in the search bar and press Enter to fetch and display the user’s profile and repositories.
